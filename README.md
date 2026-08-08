@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 284**
+**Total solved: 295**
 
 ## Codeforces
 
@@ -32,21 +32,21 @@ Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized 
 
 Solutions organized by primary topic folder.
 
-**Solved: 84**
+**Solved: 95**
 
 | Topic | Solved |
 | --- | --- |
 | [array](./leetcode/array) | 18 |
 | [backtracking](./leetcode/backtracking) | 1 |
-| [binary-search](./leetcode/binary-search) | 4 |
-| [dynamic-programming](./leetcode/dynamic-programming) | 6 |
+| [binary-search](./leetcode/binary-search) | 12 |
+| [dynamic-programming](./leetcode/dynamic-programming) | 7 |
 | [graph](./leetcode/graph) | 1 |
-| [hash-table](./leetcode/hash-table) | 17 |
+| [hash-table](./leetcode/hash-table) | 18 |
 | [heap-priority-queue](./leetcode/heap-priority-queue) | 3 |
 | [math](./leetcode/math) | 4 |
 | [misc](./leetcode/misc) | 4 |
 | [segment-tree](./leetcode/segment-tree) | 2 |
-| [sliding-window](./leetcode/sliding-window) | 2 |
+| [sliding-window](./leetcode/sliding-window) | 3 |
 | [stack](./leetcode/stack) | 2 |
 | [string](./leetcode/string) | 7 |
 | [trie](./leetcode/trie) | 2 |
