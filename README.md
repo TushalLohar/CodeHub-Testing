@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 324**
+**Total solved: 325**
 
 ## Codeforces
 
@@ -32,13 +32,13 @@ Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized 
 
 Solutions organized by primary topic folder.
 
-**Solved: 124**
+**Solved: 125**
 
 | Topic | Solved |
 | --- | --- |
 | [array](./leetcode/array) | 26 |
 | [backtracking](./leetcode/backtracking) | 2 |
-| [binary-search](./leetcode/binary-search) | 15 |
+| [binary-search](./leetcode/binary-search) | 16 |
 | [bit-manipulation](./leetcode/bit-manipulation) | 1 |
 | [dynamic-programming](./leetcode/dynamic-programming) | 7 |
 | [graph](./leetcode/graph) | 1 |
