@@ -1,101 +1,99 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <cmath>
+#include <queue>
+#include <stack>
+#include <set>
+#include <map>
+#include <unordered_set>
+#include <unordered_map>
+#include <deque>
+#include <list>
+#include <numeric>
+#include <iomanip>
+#include <climits>
+#include <cstring>
+
 using namespace std;
- 
+
 #define ll long long
+#define ull unsigned long long
+#define ld long double
+
 #define pb push_back
-#define endl '\n'
- 
+#define ff first
+#define ss second
+
+#define all(x) (x).begin(), (x).end()
+#define rall(x) (x).rbegin(), (x).rend()
+
 const int MOD = 1e9 + 7;
-const int INF = 1e18;
- 
-void solve()
-{
+const ll INF = 1e18;
+
+void solve() {
     int n;
-    cin >> n;
-    vector<pair<ll, int>> k(n);
-    for (int i = 0; i < n; i++)
-    {
-        cin >> k[i].first;
-        k[i].second = i;
+    cin>>n;
+    vector<pair<ll,ll>> nums(n);
+    for(int i=0;i<n;i++){
+        cin>>nums[i].ff;
+        nums[i].ss=i;
     }
- 
-    sort(k.begin(), k.end());
-    vector<ll> ans(n);
-    ll prev_sum = 0;
-    ll last = 0;
- 
-    for (int i = 0; i < n;)
-    {
-        int j = i;
- 
-        while (j < n && k[j].first == k[i].first)
-        {
+    sort(all(nums));
+    vector<ll>ans(n);
+    ll sum=0, last=0;
+    for(int i=0; i<n;){
+        int j=i;
+
+        while(j<n && nums[j].ff==nums[i].ff){
             j++;
         }
- 
-        ll cnt = j - i;
- 
-        ll cur;
- 
-        // Current shadow must equal sum of all previous values
-        if (k[i].first != prev_sum)
-        {
-            cout << -1 << endl;
-            return;
+        ll count=j-i;
+        ll current;
+        if(nums[i].ff!=sum){
+            cout<<-1<<endl;
+            return;   
         }
- 
-        if (j == n)
-        {
-            // Last distinct value
-            cur = last + 1;
+        if(j==n){
+            current=last+1;
         }
-        else
-        {
-            ll need = k[j].first - prev_sum;
- 
-            if (need <= 0 || need % cnt != 0)
-            {
-                cout << -1 << endl;
+        else{
+            ll need=nums[j].ff-sum;
+            if(need<=0 || need%count!=0){
+                cout<<-1<<endl;
                 return;
             }
- 
-            cur = need / cnt;
- 
-            if (cur <= last)
-            {
-                cout << -1 << endl;
+            current=need/count;
+            if(current<=last){
+                cout<<-1<<endl;
                 return;
             }
         }
- 
-        for (int x = i; x < j; x++)
-        {
-            ans[k[x].second] = cur;
+        for(int k=i;k<j;k++){
+            ans[nums[k].ss]=current;
         }
- 
-        prev_sum += cnt * cur;
-        last = cur;
- 
-        i = j;
+        sum+=1LL * count*current;
+        last=current;
+        i=j;
     }
- 
-    for (auto x : ans)
-    {
-        cout << x << " ";
+    for( ll x:ans){
+        cout<<x<<" ";
     }
- 
-    cout << endl;
+    cout<<endl;
+
 }
- 
-int main()
-{
+
+int main() {
     ios::sync_with_stdio(false);
-    cin.tie(NULL);
- 
-    int t;
+    cin.tie(nullptr);
+
+    int t=1;
     cin >> t;
-    while (t--)
-    {
+
+    while (t--) {
         solve();
     }
+
+    return 0;
 }
