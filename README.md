@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 250**
+**Total solved: 261**
 
 ## Codeforces
 
@@ -32,17 +32,21 @@ Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized 
 
 Solutions organized by primary topic folder.
 
-**Solved: 50**
+**Solved: 61**
 
 | Topic | Solved |
 | --- | --- |
-| [array](./leetcode/array) | 9 |
+| [array](./leetcode/array) | 12 |
 | [backtracking](./leetcode/backtracking) | 1 |
 | [dynamic-programming](./leetcode/dynamic-programming) | 5 |
 | [graph](./leetcode/graph) | 1 |
-| [hash-table](./leetcode/hash-table) | 12 |
+| [hash-table](./leetcode/hash-table) | 14 |
 | [heap-priority-queue](./leetcode/heap-priority-queue) | 2 |
 | [math](./leetcode/math) | 3 |
+| [misc](./leetcode/misc) | 2 |
+| [segment-tree](./leetcode/segment-tree) | 1 |
+| [sliding-window](./leetcode/sliding-window) | 2 |
+| [stack](./leetcode/stack) | 1 |
 | [string](./leetcode/string) | 5 |
 | [trie](./leetcode/trie) | 2 |
 | [two-pointers](./leetcode/two-pointers) | 10 |
