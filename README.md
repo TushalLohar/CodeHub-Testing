@@ -3,20 +3,21 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 86**
+**Total solved: 92**
 
 ## Codeforces
 
 Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized by difficulty rating.
 
-**Solved: 36**
+**Solved: 42**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./codeforces/800) | 1 |
 | [1000](./codeforces/1000) | 1 |
+| [1100](./codeforces/1100) | 1 |
 | [1200](./codeforces/1200) | 1 |
-| [1300](./codeforces/1300) | 23 |
+| [1300](./codeforces/1300) | 28 |
 | [1400](./codeforces/1400) | 1 |
 | [Unrated](./codeforces/Unrated) | 9 |
 
