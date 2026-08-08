@@ -3,23 +3,23 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 470**
+**Total solved: 478**
 
 ## Codeforces
 
 Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized by difficulty rating.
 
-**Solved: 283**
+**Solved: 291**
 
 | Difficulty | Solved |
 | --- | --- |
-| [800](./codeforces/800) | 59 |
-| [900](./codeforces/900) | 33 |
-| [1000](./codeforces/1000) | 27 |
-| [1100](./codeforces/1100) | 27 |
+| [800](./codeforces/800) | 60 |
+| [900](./codeforces/900) | 35 |
+| [1000](./codeforces/1000) | 29 |
+| [1100](./codeforces/1100) | 28 |
 | [1200](./codeforces/1200) | 35 |
-| [1300](./codeforces/1300) | 49 |
-| [1400](./codeforces/1400) | 19 |
+| [1300](./codeforces/1300) | 50 |
+| [1400](./codeforces/1400) | 20 |
 | [1500](./codeforces/1500) | 11 |
 | [1600](./codeforces/1600) | 3 |
 | [1700](./codeforces/1700) | 6 |
