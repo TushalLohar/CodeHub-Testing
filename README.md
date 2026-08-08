@@ -3,17 +3,17 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 737**
+**Total solved: 738**
 
 ## Codeforces
 
 Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized by difficulty rating.
 
-**Solved: 550**
+**Solved: 551**
 
 | Difficulty | Solved |
 | --- | --- |
-| [800](./codeforces/800) | 202 |
+| [800](./codeforces/800) | 203 |
 | [900](./codeforces/900) | 73 |
 | [1000](./codeforces/1000) | 65 |
 | [1100](./codeforces/1100) | 45 |
