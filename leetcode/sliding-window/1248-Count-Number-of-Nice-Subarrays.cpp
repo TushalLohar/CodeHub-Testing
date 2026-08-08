@@ -1,0 +1,29 @@
+class Solution {
+public:
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        int n=nums.size();
+       
+    
+        
+        for(int i=0;i<n;i++){
+            if(nums[i]%2==0) nums[i]=0;
+            else nums[i]=1;
+
+        }
+       long long ans=0;
+    long long sum=0;
+    map<long long,long long> mp;
+    for(int i=0;i<n;i++){
+        sum+=nums[i];
+        ans+=mp[sum-k];
+        if(sum==k){
+            ans++;
+        }
+        mp[sum]++;
+    }
+
+        return ans;
+
+        
+    }
+};
