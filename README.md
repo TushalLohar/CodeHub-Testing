@@ -3,18 +3,18 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 157**
+**Total solved: 158**
 
 ## Codeforces
 
 Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized by difficulty rating.
 
-**Solved: 107**
+**Solved: 108**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./codeforces/800) | 8 |
-| [900](./codeforces/900) | 4 |
+| [900](./codeforces/900) | 5 |
 | [1000](./codeforces/1000) | 9 |
 | [1100](./codeforces/1100) | 11 |
 | [1200](./codeforces/1200) | 14 |
