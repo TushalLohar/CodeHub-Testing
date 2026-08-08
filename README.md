@@ -3,17 +3,18 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 50**
+**Total solved: 55**
 
 ## Codeforces
 
-Solutions by [Tushal_007](https://codeforces.com/profile/Tushal_007), organized by difficulty rating.
+Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized by difficulty rating.
 
-**Solved: 0**
+**Solved: 5**
 
 | Difficulty | Solved |
 | --- | --- |
-| — | 0 |
+| [1300](./codeforces/1300) | 2 |
+| [Unrated](./codeforces/Unrated) | 3 |
 
 
 ## LeetCode
