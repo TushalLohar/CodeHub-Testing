@@ -7,7 +7,7 @@ Synced automatically by CF Sync.
 
 ## Codeforces
 
-Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized by difficulty rating.
+Solutions by [Tushal_007](https://codeforces.com/profile/Tushal_007), organized by difficulty rating.
 
 **Solved: 554**
 
