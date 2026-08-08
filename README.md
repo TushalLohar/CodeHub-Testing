@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 348**
+**Total solved: 358**
 
 ## Codeforces
 
@@ -32,17 +32,17 @@ Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized 
 
 Solutions organized by primary topic folder.
 
-**Solved: 148**
+**Solved: 158**
 
 | Topic | Solved |
 | --- | --- |
-| [array](./leetcode/array) | 36 |
+| [array](./leetcode/array) | 40 |
 | [backtracking](./leetcode/backtracking) | 2 |
 | [binary-search](./leetcode/binary-search) | 16 |
 | [bit-manipulation](./leetcode/bit-manipulation) | 1 |
-| [dynamic-programming](./leetcode/dynamic-programming) | 8 |
+| [dynamic-programming](./leetcode/dynamic-programming) | 9 |
 | [graph](./leetcode/graph) | 1 |
-| [hash-table](./leetcode/hash-table) | 27 |
+| [hash-table](./leetcode/hash-table) | 30 |
 | [heap-priority-queue](./leetcode/heap-priority-queue) | 4 |
 | [math](./leetcode/math) | 13 |
 | [misc](./leetcode/misc) | 4 |
@@ -52,7 +52,8 @@ Solutions organized by primary topic folder.
 | [stack](./leetcode/stack) | 2 |
 | [string](./leetcode/string) | 12 |
 | [trie](./leetcode/trie) | 2 |
-| [two-pointers](./leetcode/two-pointers) | 12 |
+| [two-pointers](./leetcode/two-pointers) | 13 |
+| [union-find](./leetcode/union-find) | 1 |
 
 
 _Last updated: 2026-08-08_
