@@ -3,26 +3,26 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 539**
+**Total solved: 546**
 
 ## Codeforces
 
 Solutions by [tushal_007](https://codeforces.com/profile/tushal_007), organized by difficulty rating.
 
-**Solved: 352**
+**Solved: 359**
 
 | Difficulty | Solved |
 | --- | --- |
-| [800](./codeforces/800) | 80 |
+| [800](./codeforces/800) | 82 |
 | [900](./codeforces/900) | 44 |
-| [1000](./codeforces/1000) | 39 |
+| [1000](./codeforces/1000) | 41 |
 | [1100](./codeforces/1100) | 36 |
-| [1200](./codeforces/1200) | 39 |
-| [1300](./codeforces/1300) | 54 |
+| [1200](./codeforces/1200) | 40 |
+| [1300](./codeforces/1300) | 55 |
 | [1400](./codeforces/1400) | 22 |
 | [1500](./codeforces/1500) | 11 |
 | [1600](./codeforces/1600) | 3 |
-| [1700](./codeforces/1700) | 7 |
+| [1700](./codeforces/1700) | 8 |
 | [1800](./codeforces/1800) | 5 |
 | [2000](./codeforces/2000) | 1 |
 | [2100](./codeforces/2100) | 1 |
