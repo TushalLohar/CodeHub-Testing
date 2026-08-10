@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 754**
+**Total solved: 763**
 
 ## Codeforces
 
@@ -68,6 +68,24 @@ Solutions from the CSES Problem Set, organized by section.
 | --- | --- |
 | [range-queries](./cses/range-queries) | 2 |
 | [sorting-and-searching](./cses/sorting-and-searching) | 5 |
+
+
+## AtCoder
+
+Solutions from AtCoder contests, organized by contest.
+
+**Solved: 9**
+
+| Contest | Solved |
+| --- | --- |
+| [abc426](./atcoder/abc426) | 2 |
+| [abc356](./atcoder/abc356) | 1 |
+| [abc305](./atcoder/abc305) | 1 |
+| [abc301](./atcoder/abc301) | 1 |
+| [abc263](./atcoder/abc263) | 1 |
+| [abc258](./atcoder/abc258) | 1 |
+| [abc241](./atcoder/abc241) | 1 |
+| [abc188](./atcoder/abc188) | 1 |
 
 
 _Last updated: 2026-08-10_
