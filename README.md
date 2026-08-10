@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 763**
+**Total solved: 764**
 
 ## Codeforces
 
@@ -86,6 +86,17 @@ Solutions from AtCoder contests, organized by contest.
 | [abc258](./atcoder/abc258) | 1 |
 | [abc241](./atcoder/abc241) | 1 |
 | [abc188](./atcoder/abc188) | 1 |
+
+
+## CodeChef
+
+Solutions from CodeChef contests and practice, organized by category.
+
+**Solved: 1**
+
+| Category / Contest | Solved |
+| --- | --- |
+| [practice](./codechef/practice) | 1 |
 
 
 _Last updated: 2026-08-10_
