@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 747**
+**Total solved: 754**
 
 ## Codeforces
 
@@ -56,6 +56,18 @@ Solutions organized by primary topic folder.
 | [trie](./leetcode/trie) | 2 |
 | [two-pointers](./leetcode/two-pointers) | 19 |
 | [union-find](./leetcode/union-find) | 1 |
+
+
+## CSES
+
+Solutions from the CSES Problem Set, organized by section.
+
+**Solved: 7**
+
+| Section | Solved |
+| --- | --- |
+| [range-queries](./cses/range-queries) | 2 |
+| [sorting-and-searching](./cses/sorting-and-searching) | 5 |
 
 
 _Last updated: 2026-08-10_
