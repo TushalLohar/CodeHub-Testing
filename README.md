@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 782**
+**Total solved: 786**
 
 ## Codeforces
 
@@ -92,13 +92,13 @@ Solutions from AtCoder contests, organized by contest.
 
 Solutions from CodeChef contests and practice, organized by category.
 
-**Solved: 19**
+**Solved: 23**
 
 | Category / Contest | Solved |
 | --- | --- |
 | [practice](./codechef/practice) | 2 |
-| [start230d](./codechef/start230d) | 3 |
-| [start231d](./codechef/start231d) | 2 |
+| [start230d](./codechef/start230d) | 5 |
+| [start231d](./codechef/start231d) | 4 |
 | [start232c](./codechef/start232c) | 4 |
 | [start233c](./codechef/start233c) | 4 |
 | [start234c](./codechef/start234c) | 4 |
