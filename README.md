@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 906**
+**Total solved: 926**
 
 ## Codeforces
 
@@ -125,11 +125,12 @@ Solutions organized by difficulty rating.
 
 Solutions organized by difficulty level.
 
-**Solved: 0**
+**Solved: 20**
 
 | Difficulty | Solved |
 | --- | --- |
-| — | 0 |
+| [Basic](./geeksforgeeks/Basic) | 13 |
+| [Easy](./geeksforgeeks/Easy) | 7 |
 
 
 _Last updated: 2026-08-11_
