@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 904**
+**Total solved: 913**
 
 ## Codeforces
 
@@ -74,18 +74,18 @@ Solutions from the CSES Problem Set, organized by section.
 
 Solutions from AtCoder contests, organized by contest.
 
-**Solved: 9**
+**Solved: 18**
 
 | Contest | Solved |
 | --- | --- |
-| [abc426](./atcoder/abc426) | 2 |
-| [abc356](./atcoder/abc356) | 1 |
-| [abc305](./atcoder/abc305) | 1 |
-| [abc301](./atcoder/abc301) | 1 |
-| [abc263](./atcoder/abc263) | 1 |
-| [abc258](./atcoder/abc258) | 1 |
-| [abc241](./atcoder/abc241) | 1 |
-| [abc188](./atcoder/abc188) | 1 |
+| [abc426](./atcoder/abc426) | 4 |
+| [abc356](./atcoder/abc356) | 2 |
+| [abc305](./atcoder/abc305) | 2 |
+| [abc301](./atcoder/abc301) | 2 |
+| [abc263](./atcoder/abc263) | 2 |
+| [abc258](./atcoder/abc258) | 2 |
+| [abc241](./atcoder/abc241) | 2 |
+| [abc188](./atcoder/abc188) | 2 |
 
 
 ## CodeChef
