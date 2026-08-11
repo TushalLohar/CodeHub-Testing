@@ -3,13 +3,13 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 914**
+**Total solved: 906**
 
 ## Codeforces
 
 Solutions by [Tushal_007](https://codeforces.com/profile/Tushal_007), organized by difficulty rating.
 
-**Solved: 559**
+**Solved: 560**
 
 | Difficulty | Solved |
 | --- | --- |
@@ -18,7 +18,7 @@ Solutions by [Tushal_007](https://codeforces.com/profile/Tushal_007), organized 
 | [1000](./codeforces/1000) | 65 |
 | [1100](./codeforces/1100) | 45 |
 | [1200](./codeforces/1200) | 45 |
-| [1300](./codeforces/1300) | 65 |
+| [1300](./codeforces/1300) | 66 |
 | [1400](./codeforces/1400) | 23 |
 | [1500](./codeforces/1500) | 11 |
 | [1600](./codeforces/1600) | 3 |
@@ -74,18 +74,18 @@ Solutions from the CSES Problem Set, organized by section.
 
 Solutions from AtCoder contests, organized by contest.
 
-**Solved: 18**
+**Solved: 9**
 
 | Contest | Solved |
 | --- | --- |
-| [abc426](./atcoder/abc426) | 4 |
-| [abc356](./atcoder/abc356) | 2 |
-| [abc305](./atcoder/abc305) | 2 |
-| [abc301](./atcoder/abc301) | 2 |
-| [abc263](./atcoder/abc263) | 2 |
-| [abc258](./atcoder/abc258) | 2 |
-| [abc241](./atcoder/abc241) | 2 |
-| [abc188](./atcoder/abc188) | 2 |
+| [abc426](./atcoder/abc426) | 2 |
+| [abc356](./atcoder/abc356) | 1 |
+| [abc305](./atcoder/abc305) | 1 |
+| [abc301](./atcoder/abc301) | 1 |
+| [abc263](./atcoder/abc263) | 1 |
+| [abc258](./atcoder/abc258) | 1 |
+| [abc241](./atcoder/abc241) | 1 |
+| [abc188](./atcoder/abc188) | 1 |
 
 
 ## CodeChef
@@ -119,6 +119,17 @@ Solutions organized by difficulty rating.
 | [2000](./codechef/2000) | 2 |
 | [2500](./codechef/2500) | 1 |
 | [Unrated](./codechef/Unrated) | 35 |
+
+
+## GeeksforGeeks
+
+Solutions organized by difficulty level.
+
+**Solved: 0**
+
+| Difficulty | Solved |
+| --- | --- |
+| — | 0 |
 
 
 _Last updated: 2026-08-11_
