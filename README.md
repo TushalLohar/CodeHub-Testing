@@ -1,9 +1,9 @@
 <!-- cf-sync -->
 # Competitive Programming Solutions
 
-Synced automatically by CF Sync.
+Synced automatically by SolveBase.
 
-**Total solved: 927**
+**Total solved: 917**
 
 ## Codeforces
 
@@ -70,24 +70,6 @@ Solutions from the CSES Problem Set, organized by section.
 | [sorting-and-searching](./cses/sorting-and-searching) | 5 |
 
 
-## AtCoder
-
-Solutions from AtCoder contests, organized by contest.
-
-**Solved: 9**
-
-| Contest | Solved |
-| --- | --- |
-| [abc426](./atcoder/abc426) | 2 |
-| [abc356](./atcoder/abc356) | 1 |
-| [abc305](./atcoder/abc305) | 1 |
-| [abc301](./atcoder/abc301) | 1 |
-| [abc263](./atcoder/abc263) | 1 |
-| [abc258](./atcoder/abc258) | 1 |
-| [abc241](./atcoder/abc241) | 1 |
-| [abc188](./atcoder/abc188) | 1 |
-
-
 ## CodeChef
 
 Solutions organized by difficulty rating.
@@ -125,12 +107,13 @@ Solutions organized by difficulty rating.
 
 Solutions organized by difficulty level.
 
-**Solved: 20**
+**Solved: 19**
 
 | Difficulty | Solved |
 | --- | --- |
-| [Basic](./geeksforgeeks/Basic) | 13 |
+| [Basic](./geeksforgeeks/Basic) | 12 |
 | [Easy](./geeksforgeeks/Easy) | 7 |
 
 
-_Last updated: 2026-08-11_
+_Last updated: 2026-08-16_
+<!-- /cf-sync -->
